@@ -1,8 +1,8 @@
 # Hi, I'm Christoffer
-How fun that you are looking on my github!
+How fun that you are visiting my github!
 
-⛰️ Currently I am enjoying some time off after 5 years of studying (**M.Sc. in Interaction Technology and Design**)
+🎓 **M.Sc. in Interaction Technology and Design**
 
-🌐 **Looking for work** in web development or adjacent fields
+🛠️ Currently @ **Clear Street** as Software Engineer
 
-📱 I would love to learn more about **React**, **TypeScript** and **iOS** development.
+📱 I would love to learn more about **React**, **TypeScript** and **Finance**.
